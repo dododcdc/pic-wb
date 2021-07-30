@@ -8,7 +8,7 @@
         <div class="title">GoodBin</div>
       </div>
       <div class="website-count" @click="goGitHubRepo">
-        hello
+        源码地址
       </div>
     </div>
 
